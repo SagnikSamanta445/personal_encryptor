@@ -98,7 +98,7 @@ The project is divided into separate modules:
 Clone the repository:
 
 ```bash
-git clone <repo-link>
+git clone git@github.com:SagnikSamanta445/personal_encryptor.git
 cd personal_encryptor
 ```
 
@@ -115,7 +115,7 @@ make
 Run the executable:
 
 ```bash
-./main
+./encrypt_decrypt
 ```
 
 The program will prompt for:
